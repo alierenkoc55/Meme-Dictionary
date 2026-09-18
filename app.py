@@ -4,7 +4,6 @@ if word in meme_dict.keys():
     print("Anlamı:", meme_dict[word])
 else:
     print("Bu kelime eşleşmiyor.")
-    ask = input("Az önce yazdığınız kelimeyi bir daha yazınız.")
-    ans = input("Lütfen bu kelimenin anlamını yazınız.")
+
     
     
